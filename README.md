@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Md H H Martin</h1>
+<h1 align="center">I'm Md H H Martin</h1>
 <h3 align="center">A professional Software Engineer.</h3>
 
-- 🔭 I’m currently working on [SELISE Digital Platform](https://selisegroup.com/)
+I’m currently working on [SELISE Digital Platform](https://selisegroup.com/)
 
-- 🌱 I’m currently learning **More Frameworks**
+All of my projects are available at [https://bmhhmartin.com/](Click portfolio menu)
 
-- 👨‍💻 All of my projects are available at [https://bmhhmartin.com/](https://bmhhmartin.com/)
+How to reach me **engr.bmhhmartin@gmail.com**
 
-- 📫 How to reach me **engr.bmhhmartin@gmail.com**
-
-- 📄 Know about my experiences [https://bmhhmartin.com/](https://bmhhmartin.com/)
+Know about my experiences [https://bmhhmartin.com/](About Section)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
