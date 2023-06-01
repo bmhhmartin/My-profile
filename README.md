@@ -7,7 +7,7 @@ All of my projects are available at [https://bmhhmartin.com/]  (Click portfolio 
 
 How to reach me **engr.bmhhmartin@gmail.com**
 
-Know about my experiences [https://bmhhmartin.com/](About Section)
+Know about my experiences [https://bmhhmartin.com/]  (About Section)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
