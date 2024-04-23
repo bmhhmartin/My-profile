@@ -3,7 +3,7 @@
 
 I’m currently working on [SELISE Digital Platform](https://selisegroup.com/)
 
-All of my projects are available at [https://bmhhmartin.com/]  (Click portfolio menu)
+All of my projects are available at [https://bmhhmartin.vercel.app/portfolio]
 
 How to reach me **engr.bmhhmartin@gmail.com**
 
