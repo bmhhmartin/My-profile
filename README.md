@@ -3,11 +3,11 @@
 
 I’m currently working on [SELISE Digital Platform](https://selisegroup.com/)
 
-All of my projects are available at [https://bmhhmartin.vercel.app/portfolio]
+All of my projects are available at https://bmhhmartin.vercel.app/portfolio
 
 How to reach me **engr.bmhhmartin@gmail.com**
 
-Know about my experiences [https://bmhhmartin.com/]  (About Section)
+Know about my experiences https://bmhhmartin.vercel.app/about
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
